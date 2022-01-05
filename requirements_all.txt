@@ -893,7 +893,7 @@ nuheat==0.3.0
 # homeassistant.components.opencv
 # homeassistant.components.tensorflow
 # homeassistant.components.trend
-numpy==1.17.3
+numpy==1.22.0
 
 # homeassistant.components.oasa_telematics
 oasatelematics==0.3
@@ -974,7 +974,7 @@ pilight==0.1.1
 # homeassistant.components.image_processing
 # homeassistant.components.proxy
 # homeassistant.components.qrcode
-pillow==6.2.1
+pillow==9.0.0
 
 # homeassistant.components.dominos
 pizzapi==0.0.3
